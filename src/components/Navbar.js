@@ -12,7 +12,7 @@ function Navbar() {
                 </Link>
             </div>
         </nav>
-        </>
+        </> 
     );
 }
 
